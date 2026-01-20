@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eef1f1;
+    padding: 30px;
+    background-image: url(../images/alexis-presa-f-ZDDZipyHw-unsplash.jpg);
+    
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    
+}
+th,td{
+    padding: 12px;
+    border: 2px solid #add;
+    text-align: left;
+}
+th{
+    background: black;
+    color: white;
+}
+tr:hover{
+    background: blueviolet;
+}
+h2{
+    color: rgb(179, 241, 33);
+    text-align: center;
+
+}
